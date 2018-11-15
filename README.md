@@ -16,7 +16,7 @@ https://bravo.shinyapps.io/teslaforums/
 
 ## Meta
 
-David Shanabrook – [@YourTwitter](https://twitter.com/bravo0123) 
+David Shanabrook – [@bravo0123](https://twitter.com/bravo0123) 
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
